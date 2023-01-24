@@ -1,0 +1,527 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+span {
+  color: #fff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.nombre-apellido {
+  margin-top: 4px;
+  margin-left: 20px;
+  color: #fff;
+  
+font-family: 'Rubik Bubbles', cursive;font-family: 'Anton', sans-serif;
+
+
+
+}
+
+body {
+  background-image: url(https://eveniments.es/wp-content/uploads/2019/03/fondos-abstractos-para-paginas-web-wallpaper-hd-para-bajar-gratis-elegant-3d-abstract-wallpaper-2018-wallpapers-hd-en-2018-of-fondos-abstractos-para-paginas-web-wallpaper-hd-para-bajar-grati.jpg);
+}
+
+.icon-svg {
+  color: #000000;
+  margin: 8px;
+}
+
+.programadora {
+  margin-left: 200px;
+}
+
+.nav-toggle {
+  color: rgb(255, 255, 255);
+  background: none;
+  border: none;
+  font-size: 30px;
+  padding: 0px 20px;
+  line-height: 60px;
+  cursor: pointer;
+  width: 300%;
+  margin-right: 2px;
+  margin-left: 400px;
+
+  display: none;
+}
+
+a {
+  color: #fff;
+}
+
+button {
+  
+  background-color: #1e76ce;
+  color: #210b72;
+  font-size: 50px;
+  
+ height: 40px;
+  
+
+  }
+
+  .boton-descarga {
+    margin-left: 200px;
+  }
+  
+
+  .box {
+    margin-right: 1500px;
+  }
+  
+  
+
+
+
+
+.datospersonales {
+  display: flex;
+  width: 80%;
+  height: 80%;
+}
+
+h1 {
+  display: flex;
+  color: aliceblue;
+}
+
+.datos {
+  display: flex;
+  margin: 5px;
+}
+
+.listadedatos {
+  display: block;
+}
+
+.lista-estudios {
+  background-image: url(https://fondosmil.com/fondo/28654.jpg);
+}
+.lista-experiencia {
+  background-image: url(https://fondosmil.com/fondo/28654.jpg);
+}
+.lista-info {
+  background-image: url(https://fondosmil.com/fondo/28654.jpg);
+}
+
+.icon-user-check {
+  color: rgb(231, 225, 225);
+  font-size: 24px;
+  margin: 8px;
+
+}
+
+.icon-education {
+  font-size: 22px;
+  margin: 8px;
+}
+
+.icon-travel-case {
+  font-size: 22px;
+  margin: 8px;
+}
+
+.icon-book-reference {
+  font-size: 22px;
+  margin: 8px;
+  
+
+}
+
+.icon-envelope {
+  font-size: 22px;
+  margin: 8px;
+  
+
+}
+
+
+img {
+
+  height: 40%;
+  background-color: black;
+  ;
+}
+
+p {
+
+  color: aliceblue;
+
+  font-size: 30px;
+  width: 100%;
+  height: 100%;
+  margin-top: 8px;
+  margin-left: 35px;
+  margin-right: 10px;
+  font-family: 'Anton', sans-serif;
+
+}
+
+nav {
+  background-image: url(https://media.istockphoto.com/photos/cement-shelf-and-floor-on-concrete-background-for-design-picture-id1345203265?b=1&k=20&m=1345203265&s=612x612&w=0&h=u4Vs0oatELuy1jPR8sAVgBeQ6Y-I4x2gjRJCJ6Ra-ZU=);
+  height: 80px;
+  width: 100%;
+
+}
+
+.enlace {
+  position: absolute;
+  padding: 20px 50px;
+}
+
+.logo {
+  height: 40px;
+}
+
+nav ul {
+  float: right;
+  margin-right: 20px;
+  color: black;
+  
+
+}
+
+nav ul li {
+  display: inline-block;
+  
+  margin: 0 5px;
+
+}
+
+nav ul li a {
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  padding: 7px 13px;
+  
+
+  text-transform: uppercase;
+  
+}
+
+li a.active,
+li a:hover {
+  background: #8e8e97;
+  transition: .5s;
+}
+
+
+
+.checkbtn {
+  font-size: 30px;
+  color: #fff;
+  float: right;
+  line-height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: none;
+}
+
+#check {
+  display: none;
+}
+
+section {
+  background: url(fondo.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: calc(100vh - 80px);
+}
+
+.icon-menu1 {
+  font-style: normal;
+
+}
+
+.barra-social {
+  margin-left: 550px;
+  background-image: url(https://media.istockphoto.com/photos/cement-shelf-and-floor-on-concrete-background-for-design-picture-id1345203265?b=1&k=20&m=1345203265&s=612x612&w=0&h=u4Vs0oatELuy1jPR8sAVgBeQ6Y-I4x2gjRJCJ6Ra-ZU=);
+  margin-top: 20px;
+  height: 20%;
+  margin-right: 1150px;
+  width: 220px;
+  height: 60px;
+  line-height: 80px;
+  display: inline-block;
+  
+  
+
+}
+
+
+.icon-facebook2 {
+  font-size: 50px;
+  
+}
+
+
+.icon-twitter1 {
+  font-size: 50px;
+}
+
+.icon-youtube {
+  font-size: 50px;
+
+}
+
+.icon-instagram1 {
+  font-size: 50px;
+}
+
+
+.datos {
+  background-image: url(https://media.istockphoto.com/photos/cement-shelf-and-floor-on-concrete-background-for-design-picture-id1345203265?b=1&k=20&m=1345203265&s=612x612&w=0&h=u4Vs0oatELuy1jPR8sAVgBeQ6Y-I4x2gjRJCJ6Ra-ZU=);
+  font-family: 'Anton', sans-serif;
+
+}
+
+.estudios {
+  background-image: url(https://media.istockphoto.com/photos/cement-shelf-and-floor-on-concrete-background-for-design-picture-id1345203265?b=1&k=20&m=1345203265&s=612x612&w=0&h=u4Vs0oatELuy1jPR8sAVgBeQ6Y-I4x2gjRJCJ6Ra-ZU=);
+  display: flex;
+  font-family: 'Anton', sans-serif;
+
+}
+
+.experiencia {
+  background-image: url(https://media.istockphoto.com/photos/cement-shelf-and-floor-on-concrete-background-for-design-picture-id1345203265?b=1&k=20&m=1345203265&s=612x612&w=0&h=u4Vs0oatELuy1jPR8sAVgBeQ6Y-I4x2gjRJCJ6Ra-ZU=);
+  display: flex;
+  font-family: 'Anton', sans-serif;
+}
+
+.contacto {
+  background-image: url(https://media.istockphoto.com/photos/cement-shelf-and-floor-on-concrete-background-for-design-picture-id1345203265?b=1&k=20&m=1345203265&s=612x612&w=0&h=u4Vs0oatELuy1jPR8sAVgBeQ6Y-I4x2gjRJCJ6Ra-ZU=);
+  display: flex;
+  font-family: 'Anton', sans-serif;
+}
+
+.info-adicional {
+  background-image: url(https://media.istockphoto.com/photos/cement-shelf-and-floor-on-concrete-background-for-design-picture-id1345203265?b=1&k=20&m=1345203265&s=612x612&w=0&h=u4Vs0oatELuy1jPR8sAVgBeQ6Y-I4x2gjRJCJ6Ra-ZU=);
+  display: flex;
+  font-family: 'Anton', sans-serif;
+}
+
+.contenedorformulario {
+  display: flex;
+  margin: 20px 40px;
+  border-radius: 25px;
+  background-image: url(https://fondosmil.com/fondo/28654.jpg );
+}
+
+form {
+  padding: 20px 30px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  color: aliceblue;
+}
+
+.submit {
+  margin-left: 1500px;
+  margin-right: 300px;
+
+}
+
+.icon-phone {
+  color: darkgrey;
+
+
+}
+
+.listadatos {
+  display: block;
+  flex-direction: table-column;
+  background-image: url(https://fondosmil.com/fondo/28654.jpg );
+  
+  
+}
+
+.menu {
+  display: flex;
+  margin-right: 40px;
+  list-style: none;
+  
+}
+
+.menu-item {
+  font-size: 18px;
+  margin: 0 10px;
+  line-height: 80px;
+  text-transform: uppercase;
+  width: max-content;
+}
+
+.menulink {
+  padding: 8px 12px;
+  border-radius: 3px;
+}
+
+.menu-link:hover,
+.menu-link_active {
+  background-color: #034574;
+  transition: 0.5s;
+}
+
+
+
+.open-menu {
+  display: none;
+}
+
+.close-menu {
+  display: none;
+  
+}
+
+
+@media (max-width: 952px) {
+  .checkbtn {
+    display: block;
+  }
+
+  .nav-toggle {
+    display: block;
+  }
+
+  .open-menu {
+    display: none;
+  }
+
+  ul {
+    position: fixed;
+    width: 80%;
+    height: 70%;
+    background: #206db6;
+    top: 70px;
+    left: -100%;
+    text-align: center;
+    transition: all .5s;
+    margin-top: 50px;
+  }
+
+  nav ul li {
+    display: block;
+    margin: 50px 0;
+    color: #fff
+    ;
+    
+  }
+
+  nav ul li a {
+    font-size: 20px;
+    color: #83c5f7;
+  }
+
+  li a:hover,
+  li a.active {
+    background-color: azure;
+    
+  }
+
+  #check:checked~ul {
+    left: 0;
+  }
+
+  p {
+    width: 100%;
+    height: 80%;
+
+
+  }
+
+  .barra-social {
+    margin: 10px;
+  }
+
+  .programadora {
+    margin: 2px;
+  }
+
+  .datospersonales {
+    display: block;
+  }
+
+  .menu {
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    background-image: url(https://eveniments.es/wp-content/uploads/2019/03/fondos-abstractos-para-paginas-web-wallpaper-hd-para-bajar-gratis-elegant-3d-abstract-wallpaper-2018-wallpapers-hd-en-2018-of-fondos-abstractos-para-paginas-web-wallpaper-hd-para-bajar-grati.jpg);
+    position: fixed;
+    top: 60px;
+    width: 100%;
+    padding: 20px 0;
+
+    height: calc(100% - 60px);
+    overflow-y: auto;
+
+    left: 100%;
+    transition: left 0.3s;
+  }
+
+  .menu-item {
+    line-height: 70px;
+  }
+
+  .menu-link:hover,
+  .nav-menu-link_active {
+    background: none;
+    color: #83c5f7;
+  }
+
+  .nav-toggle {
+    display: block;
+
+  }
+
+  .menu_visible {
+    left: 0;
+  }
+
+  .nav-toggle:focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  nav {
+    display: flex;
+  }
+
+  .close-menu {
+    display: block;
+  }
+
+
+
+.listadatos {
+  display: block;
+}
+
+a{
+  color: #fff;
+}
+
+.icon-home {
+  color: rgb(238, 243, 245);
+  margin-left: 2px ;
+  margin-right: 2px;
+  
+  
+}
+.boton-descarga {
+  margin-left: 15px;
+}
+
+
+.box{
+  margin-left: 10px;
+  margin-right: 250px;
+}
+
